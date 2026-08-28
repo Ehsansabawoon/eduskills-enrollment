@@ -21,7 +21,6 @@ I started with the backend because I wanted to make sure the API worked correctl
 
 ## AI Tools
 
-## AI Tools
 
 I used ChatGPT as a coding support tool during this exercise. I used it to help review and draft portions of the implementation, work through edge cases, and confirm that my approach matched the requirements.
 

@@ -21,9 +21,11 @@ I started with the backend because I wanted to make sure the API worked correctl
 
 ## AI Tools
 
-I used ChatGPT as a support tool during this exercise. I mainly used it to review parts of my code, help think through a few edge cases, and confirm that my approach matched the requirements.
+## AI Tools
 
-I wrote and tested the project step by step and made sure I understood how the backend, filtering, data handling, and React frontend worked before moving forward.
+I used ChatGPT as a coding support tool during this exercise. I used it to help review and draft portions of the implementation, work through edge cases, and confirm that my approach matched the requirements.
+
+I tested each part of the project as I built it, made adjustments when needed, and made sure I understood how the backend, filtering, data handling, and React frontend worked before moving forward.
 
 ## Trade-off / Assumption
 

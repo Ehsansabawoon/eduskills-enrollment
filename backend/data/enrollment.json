@@ -1,0 +1,91 @@
+[
+  {
+    "studentId": "10234",
+    "lastName": "Alvarez",
+    "firstName": "Mia",
+    "gradeLevel": "05",
+    "enrollDate": "20260815",
+    "elLevel": "3",
+    "district": "Norman Public Schools"
+  },
+  {
+    "studentId": "10235",
+    "lastName": "Johnson",
+    "firstName": "Ethan",
+    "gradeLevel": "07",
+    "enrollDate": "20260812",
+    "elLevel": "2",
+    "district": "Oklahoma City Public Schools"
+  },
+  {
+    "studentId": "10236",
+    "lastName": "Martinez",
+    "firstName": "Lucas",
+    "gradeLevel": "08",
+    "enrollDate": "20260814",
+    "district": "Norman Public Schools"
+  },
+  {
+    "studentId": "10237",
+    "lastName": "Rahimi",
+    "firstName": "Sara",
+    "gradeLevel": "06",
+    "enrollDate": "20260810",
+    "elLevel": "4",
+    "district": "Edmond Public Schools"
+  },
+  {
+    "studentId": "10238",
+    "lastName": "Williams",
+    "firstName": "Ava",
+    "gradeLevel": "05",
+    "enrollDate": "20260809",
+    "elLevel": "1",
+    "district": "Moore Public Schools"
+  },
+  {
+    "studentId": "10239",
+    "lastName": "Nguyen",
+    "firstName": "Daniel",
+    "gradeLevel": "07",
+    "enrollDate": "20260811",
+    "elLevel": "2",
+    "district": "Oklahoma City Public Schools"
+  },
+  {
+    "studentId": "10240",
+    "lastName": "Brown",
+    "firstName": "Olivia",
+    "gradeLevel": "06",
+    "enrollDate": "20260813",
+    "elLevel": "3",
+    "district": "norman public schools"
+  },
+  {
+    "studentId": "10241",
+    "lastName": "Wilson",
+    "firstName": "Noah",
+    "gradeLevel": "08",
+    "enrollDate": "20260816",
+    "elLevel": "",
+    "district": "Edmond Public Schools"
+  },
+  {
+    "studentId": "10242",
+    "lastName": "Garcia",
+    "firstName": "Sophia",
+    "gradeLevel": "05",
+    "enrollDate": "20261340",
+    "elLevel": "2",
+    "district": "Moore Public Schools"
+  },
+  {
+    "studentId": "10243",
+    "lastName": "Davis",
+    "firstName": "Liam",
+    "gradeLevel": "07",
+    "enrollDate": "20260818",
+    "elLevel": "1",
+    "district": " Norman Public Schools "
+  }
+]

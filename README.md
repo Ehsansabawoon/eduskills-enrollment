@@ -36,7 +36,7 @@ I also chose to keep the project simple and use a local JSON file instead of add
 
 ## How to Run the Project
 
-Backend
+## Backend
 
 1. Open a terminal and navigate to the backend folder:
 
@@ -55,7 +55,7 @@ The backend will run at:
 http://localhost:3000
 
 
-Frontend
+## Frontend
 
 1. Open a second terminal and navigate to the frontend folder:
 
